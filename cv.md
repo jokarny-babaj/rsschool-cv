@@ -25,36 +25,36 @@ I am really passionate about programming and solving different non-trivial tasks
 
 - HTML
 
-```html
-<div class="container">
-  <h1>Hello, world!</h1>
-  <p>I want to become a Frontend developer</p>
-</div>
-```
+  ```html
+  <div class="container">
+    <h1>Hello, world!</h1>
+    <p>I want to become a Frontend developer</p>
+  </div>
+  ```
 
 - CSS
 
-```css
-.container {
-  width: 100vw;
-  height: 100vh;
+  ```css
+  .container {
+    width: 100vw;
+    height: 100vh;
 
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-```
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  ```
 
 - JavaScript
 
-```javascript
-function greetUser() {
-  alert("Greetings, user! Welcome to my CV.");
-}
+  ```javascript
+  function greetUser() {
+    alert("Greetings, user! Welcome to my CV.");
+  }
 
-window.onload = greetUser;
-```
+  window.onload = greetUser;
+  ```
 
 ## Work experience:
 
