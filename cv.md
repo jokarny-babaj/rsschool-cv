@@ -55,3 +55,22 @@ function greetUser() {
 
 window.onload = greetUser;
 ```
+
+## Work experience:
+
+Sadly, I don't have any work experience yet. But you can check the projects I've created:
+
+- [RSSCHOOL-CV](https://github.com/jokarny-babaj/rsschool-cv)
+
+  This is the first project in Rolling Scopes School. The task is to create a CV using Markdown, HTML and CSS.
+
+## Education:
+
+- Rolling Scopes School Stage 0
+
+  JavaScript/Frontend course by Rolling Scopes School will be my first IT course.
+
+## Languages:
+
+- Russian - native
+- English - A1
