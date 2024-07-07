@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Ubuntu", sans-serif;
   font-weight: 400;
@@ -33,6 +37,11 @@ body {
 
 .header {
   height: 60px;
+
+  position: sticky;
+  top: 0;
+
+  background-color: white;
 }
 
 .nav {
@@ -94,6 +103,8 @@ body {
   flex-direction: column;
 
   gap: 10px;
+
+  scroll-margin-top: 60px;
 }
 
 .section:not(:first-of-type) {
