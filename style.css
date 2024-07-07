@@ -207,3 +207,13 @@ body {
 
   border-radius: 10px;
 }
+
+.code__content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.code {
+  margin-top: 10px;
+}
