@@ -120,6 +120,8 @@ body {
 }
 
 .links-list {
+  margin-top: 10px;
+
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
@@ -133,7 +135,6 @@ body {
   height: 52px;
 
   padding: 10px;
-  margin-top: 10px;
 
   display: flex;
   align-items: center;
@@ -159,6 +160,37 @@ body {
   height: 16px;
 
   margin-left: auto;
+}
+
+.items-list {
+  margin-top: 10px;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.items-list__item {
+  list-style-type: none;
+}
+
+.items-list__element {
+  height: 52px;
+
+  padding: 10px;
+
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  border-radius: 10px;
+
+  background-color: white;
+}
+
+.items-list__element .logo {
+  width: 32px;
+  height: 32px;
 }
 
 /* SECTIONS */
