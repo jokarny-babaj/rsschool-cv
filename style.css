@@ -170,6 +170,10 @@ body {
   gap: 10px;
 }
 
+.items-list_vertical {
+  grid-template-columns: 1fr;
+}
+
 .items-list__item {
   list-style-type: none;
 }
